@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **smit.mehta4@mail.dcu.ie**
 
-- 📄 Know about my experiences [Junior Data Analyst @ Graftronics](Junior Data Analyst @ Graftronics)
+- 📄 Know about my experiences Junior Data Analyst @ Graftronics
 
 - ⚡ Fun fact **I think I sleep walk!**
 
