@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Excel, SQL**
 
-- 📫 How to reach me **smit.mehta4@mail.dcu.ie**
+- 📫 How to reach me **smitmehta515@gmail.com**
 
 - 📄 Know about my experience as Junior Data Analyst @ Graftronics
 
