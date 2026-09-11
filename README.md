@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **smitmehta515@gmail.com**
 
-- 📄 Know about my experience as Junior Data Analyst @ Graftronics
-
-- ⚡ Fun fact **I think I sleep walk!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/smitmehta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/smitmehta19" height="30" width="40" /></a>
