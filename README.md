@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/smitmehta19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://smitmehta19.github.io"><img src="https://img.shields.io/badge/Portfolio-f5a524?style=for-the-badge&logo=githubpages&logoColor=111827" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/smitmehta19"><b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://smitmehta19.github.io"><b>Portfolio</b></a>
 </p>
 
 ## About me
@@ -13,6 +12,8 @@
 - **Production ML at scale.** Trained an XGBoost model on ~21M rows and scored it with PySpark on AWS EMR.
 - **Building with LLMs.** Natural-language-to-SQL chatbots, a LangGraph AI assistant, and testing of MCP tools.
 - **Side projects.** Small web apps that do one job well, most running fully in the browser.
+
+**Stack:** Python · SQL · PySpark · Pandas · XGBoost · LangGraph · MCP · AWS EMR · JavaScript
 
 ## Featured projects
 
@@ -60,32 +61,6 @@
     </td>
   </tr>
 </table>
-
-## Tech I use
-
-**AI & LLMs**<br>
-<img src="https://img.shields.io/badge/LangGraph-1f2937?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph">
-<img src="https://img.shields.io/badge/MCP-1f2937?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
-<img src="https://img.shields.io/badge/RAG-1f2937?style=flat-square" alt="RAG">
-<img src="https://img.shields.io/badge/NL--to--SQL-1f2937?style=flat-square" alt="NL-to-SQL">
-
-**Data & ML**<br>
-<img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square" alt="SQL">
-<img src="https://img.shields.io/badge/PySpark-1f2937?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
-<img src="https://img.shields.io/badge/Pandas-1f2937?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/XGBoost-1f2937?style=flat-square" alt="XGBoost">
-<img src="https://img.shields.io/badge/Jupyter-1f2937?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-
-**Cloud & tools**<br>
-<img src="https://img.shields.io/badge/AWS%20EMR-1f2937?style=flat-square" alt="AWS EMR">
-<img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-
-**Web**<br>
-<img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML-1f2937?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1f2937?style=flat-square&logo=css&logoColor=white" alt="CSS">
 
 ## Currently
 
