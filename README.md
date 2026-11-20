@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/smitmehta19"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://smitmehta19.github.io"><img src="https://img.shields.io/badge/Portfolio-smitmehta19.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=f5a524" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/smitmehta19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://smitmehta19.github.io"><img src="https://img.shields.io/badge/Portfolio-f5a524?style=for-the-badge&logo=githubpages&logoColor=111827" alt="Portfolio"></a>
 </p>
 
 ## About me
