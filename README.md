@@ -1,8 +1,10 @@
 <div align="center">
 
-**Smit Mehta** · AI Engineer & Senior Data Analyst, Dublin
+# Smit Mehta
 
-# I build anything that makes my life easier.
+AI Engineer & Senior Data Analyst, Dublin
+
+### I build anything that makes my life easier.
 
 </div>
 
