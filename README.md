@@ -1,19 +1,28 @@
 <p align="center">
-  <img src="./banner.svg" alt="Smit Mehta, Senior Data Analyst and AI Engineer, Dublin" width="100%">
+  <img src="assets/hero.png" alt="Smit Mehta, Senior Data Analyst and AI Engineer in Dublin. I build anything that makes my life easier." width="100%">
 </p>
 
-<p align="center">I build anything that makes my life easier.</p>
+<p align="center">
+  <a href="https://smitmehta19.github.io/SwissPDF/"><img src="assets/swisspdf.png" alt="SwissPDF: 30 PDF tools that run in your browser. Your files never leave your device." width="48%"></a>&nbsp;
+  <a href="https://game-night.visaupdates.workers.dev"><img src="assets/gamenight.png" alt="Game Night: Party games for one room. Your phone is the controller, a tablet hosts." width="48%"></a>
+</p>
 
-<p align="center"><b>Stack:</b> Python · SQL · PySpark · Pandas · XGBoost · LangGraph · MCP · AWS EMR · JavaScript</p>
+<p align="center">
+  <a href="https://flightoverhead.visaupdates.workers.dev"><img src="assets/flight.png" alt="FlightOverHead: See the planes above you right now, and the ones coming next." width="48%"></a>&nbsp;
+  <a href="https://dublin-visa-monitor.visaupdates.workers.dev"><img src="assets/visa.png" alt="Dublin Visa Monitor: Live board of Schengen visa slots in Dublin, with alerts for new dates." width="48%"></a>
+</p>
 
-## Live projects
+<p align="center">
+  <a href="https://pocketwise-club-table.pages.dev"><img src="assets/poker.png" alt="DumbPoker: A beginner's poker helper: your hand, your odds, your next move." width="48%"></a>&nbsp;
+  <a href="https://smitmehta19.github.io/home-workout-app/"><img src="assets/homegym.png" alt="Home Gym: Plans today's workout, times your rests and suggests your next weight." width="48%"></a>
+</p>
 
-| Project | What it does |
-|---|---|
-| [Game Night](https://game-night.visaupdates.workers.dev) | Party games for one room. Everyone plays on their phone while a tablet hosts: Mafia, Imposter, Fishbowl and more. |
-| [FlightOverHead](https://flightoverhead.visaupdates.workers.dev) | See the planes flying over you right now, upcoming flyovers, and your own spotting collection. |
-| [DumbPoker](https://pocketwise-club-table.pages.dev) | Beginner poker helper: hand rankings, your odds and what to do next. |
-| [Dublin Visa Monitor](https://dublin-visa-monitor.visaupdates.workers.dev) | Live board of Schengen visa appointment slots in Dublin, with alerts when new dates open. |
-| [Anti-doom](https://anti-doom.pages.dev) | A personal feed of posts from sites I choose, built to replace doom-scrolling. Sign-in required. |
+<p align="center">
+  <a href="https://smitmehta19.github.io/fovea/"><img src="assets/fovea.png" alt="Fovea: Speed reading, one word at a time. Paste text or drop in a PDF." width="48%"></a>&nbsp;
+  <a href="https://smitmehta19.github.io/cookflow/"><img src="assets/cookflow.png" alt="CookFlow: Recipes, pantry, weekly meal plan and shopping list in one place." width="48%"></a>
+</p>
 
-**Demos of my pinned projects:** <a href="https://smitmehta19.github.io/SwissPDF/">SwissPDF</a> · <a href="https://smitmehta19.github.io/">Terminal Portfolio</a> · <a href="https://smitmehta19.github.io/home-workout-app/">Home Gym</a> · <a href="https://smitmehta19.github.io/fovea/">Fovea</a> · <a href="https://smitmehta19.github.io/cookflow/">CookFlow</a> · <a href="https://smitmehta19.github.io/pixrow-play/">PixRow</a>
+<p align="center">
+  <a href="https://smitmehta19.github.io/pixrow-play/"><img src="assets/pixrow.png" alt="PixRow: A calm daily pixel puzzle. Tap the chains, clear the picture." width="48%"></a>&nbsp;
+  <a href="https://anti-doom.pages.dev"><img src="assets/antidoom.png" alt="Anti-doom: My own feed from sites I pick, instead of endless scrolling. Sign-in needed." width="48%"></a>
+</p>
