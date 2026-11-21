@@ -2,7 +2,7 @@
 
 # Smit Mehta
 
-**AI Engineer & Senior Data Analyst** in Dublin
+**AI Engineer & Senior Data Analyst**
 
 <i>I build anything that makes my life easier.</i>
 
