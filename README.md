@@ -1,12 +1,7 @@
-### Smit Mehta
-
+**Smit Mehta**<br>
 Senior Data Analyst & AI Engineer in Dublin
 
-> I build anything that makes my life easier.
-
-<!--RECENT:START-->
-**Recently worked on:** [PixRow](https://smitmehta19.github.io/pixrow-play/) (17 Nov), [SwissPDF](https://smitmehta19.github.io/SwissPDF/) (3 Nov), [To-do app](https://github.com/smitmehta19/todo-app) (14 Oct)
-<!--RECENT:END-->
+# I build anything that makes my life easier.
 
 <p align="center">
   <a href="https://smitmehta19.github.io/SwissPDF/"><img src="assets/swisspdf.png" alt="SwissPDF: 30 PDF tools that run in your browser. Your files never leave your device." width="48%"></a>&nbsp;
