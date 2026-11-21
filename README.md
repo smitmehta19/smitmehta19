@@ -1,7 +1,10 @@
-**Smit Mehta**<br>
-Senior Data Analyst & AI Engineer in Dublin
+<div align="center">
+
+**Smit Mehta** · AI Engineer & Senior Data Analyst, Dublin
 
 # I build anything that makes my life easier.
+
+</div>
 
 <p align="center">
   <a href="https://smitmehta19.github.io/SwissPDF/"><img src="assets/swisspdf.png" alt="SwissPDF: 30 PDF tools that run in your browser. Your files never leave your device." width="48%"></a>&nbsp;
